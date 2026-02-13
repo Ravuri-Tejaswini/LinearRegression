@@ -1,4 +1,4 @@
-📊 Linear Regression & Multiple Regression
+# Linear Regression & Multiple Regression
 📌 Project Overview
 
 This project demonstrates the implementation of Simple Linear Regression and Multiple Linear Regression using Python in Google Colab.
