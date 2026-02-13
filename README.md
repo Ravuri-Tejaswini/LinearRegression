@@ -41,6 +41,7 @@ Linear-Regression-Project/
 ├── Multiple_Regression.ipynb
 └── README.md
 
+
 📈 Simple Linear Regression
 
 Simple Linear Regression predicts a dependent variable (Y) using one independent variable (X).
@@ -65,7 +66,7 @@ Visualize results
 
 Evaluate model performance
 
-📊 Multiple Linear Regression
+# 📊 Multiple Linear Regression
 
 Multiple Linear Regression predicts a dependent variable using multiple independent variables.
 
